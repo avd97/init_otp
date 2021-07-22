@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840113764140",
+    "project_id": "otpdemo-d6f8a",
+    "storage_bucket": "otpdemo-d6f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840113764140:android:31ebd81adadd4b02de5e89",
+        "android_client_info": {
+          "package_name": "dev.abhi.otpdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840113764140-u0jflad5odsb4hlmmfuckmmab9r8892u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD83Jv_OG_96Xvf3-Jh0SoFB9JNHdUGiYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840113764140-u0jflad5odsb4hlmmfuckmmab9r8892u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
